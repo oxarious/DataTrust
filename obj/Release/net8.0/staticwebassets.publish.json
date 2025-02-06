@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "o2SC0dw0407vcNJjF5SNYfnZJdV1VmOem/EsFFVGO2g=",
+  "Source": "DataTrust",
+  "BasePath": "_content/DataTrust",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DataTrust\\wwwroot",
+      "Source": "DataTrust",
+      "ContentRoot": "C:\\Users\\Rock N Råttan\\Downloads\\Datatrust (2)\\Datatrust\\wwwroot\\",
+      "BasePath": "_content/DataTrust",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Rock N Råttan\\Downloads\\Datatrust (2)\\Datatrust\\wwwroot\\css\\site.css",
+      "SourceId": "DataTrust",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rock N Råttan\\Downloads\\Datatrust (2)\\Datatrust\\wwwroot\\",
+      "BasePath": "_content/DataTrust",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Rock N Råttan\\Downloads\\Datatrust (2)\\Datatrust\\wwwroot\\js\\site.js",
+      "SourceId": "DataTrust",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rock N Råttan\\Downloads\\Datatrust (2)\\Datatrust\\wwwroot\\",
+      "BasePath": "_content/DataTrust",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}

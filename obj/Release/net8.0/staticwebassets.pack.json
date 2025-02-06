@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Rock N Råttan\\Downloads\\Datatrust (2)\\Datatrust\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Rock N Råttan\\Downloads\\Datatrust (2)\\Datatrust\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.DataTrust.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.DataTrust.props",
+      "PackagePath": "build\\DataTrust.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DataTrust.props",
+      "PackagePath": "buildMultiTargeting\\DataTrust.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.DataTrust.props",
+      "PackagePath": "buildTransitive\\DataTrust.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
