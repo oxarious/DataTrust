@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rock N Råttan\\Downloads\\Datatrust (2)\\Datatrust\\DataTrust.csproj": {}
+    "C:\\Users\\Rock N Råttan\\Source\\Repos\\DataTrust\\DataTrust.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rock N Råttan\\Downloads\\Datatrust (2)\\Datatrust\\DataTrust.csproj": {
+    "C:\\Users\\Rock N Råttan\\Source\\Repos\\DataTrust\\DataTrust.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rock N Råttan\\Downloads\\Datatrust (2)\\Datatrust\\DataTrust.csproj",
+        "projectUniqueName": "C:\\Users\\Rock N Råttan\\Source\\Repos\\DataTrust\\DataTrust.csproj",
         "projectName": "DataTrust",
-        "projectPath": "C:\\Users\\Rock N Råttan\\Downloads\\Datatrust (2)\\Datatrust\\DataTrust.csproj",
+        "projectPath": "C:\\Users\\Rock N Råttan\\Source\\Repos\\DataTrust\\DataTrust.csproj",
         "packagesPath": "C:\\Users\\Rock N Råttan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rock N Råttan\\Downloads\\Datatrust (2)\\Datatrust\\obj\\",
+        "outputPath": "C:\\Users\\Rock N Råttan\\Source\\Repos\\DataTrust\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rock N Råttan\\AppData\\Roaming\\NuGet\\NuGet.Config",
