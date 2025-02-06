@@ -28,9 +28,21 @@ jobs:
         dotnet build --configuration Release
         dotnet publish -c Release -o publish
 
-    - name: Deploy to Azure
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Login to Azure
+      uses: azure/login@v2
+      with:
+        creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+    - name: Deploy to Azure Web App
       uses: azure/webapps-deploy@v2
       with:
-        app-name: datatrust-app
-        publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+        app-name: datatrust20250206120241
         package: publish

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ehRCY7rnKHrYsUcyo7K6Y5YAlEuut0TUA6TsUB+q1VJfeSsiDLOh7zxDy2kJbWo5rthH/OtGo+o5CHPZOcl5tQ==",
+  "dgSpecHash": "B5/zr74zrr+rYSW/o+hQH2OtpiJrwUXgIwBZ5mUSIINoL5P2M4MIbP19G+4m7PVP0H/rA6RY8sc/cWSV1RxnQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rock N Råttan\\Source\\Repos\\DataTrust\\DataTrust.csproj",
+  "projectFilePath": "C:\\Users\\Rock N Råttan\\source\\repos\\DataTrust\\DataTrust.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rock N Råttan\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\Rock N Råttan\\.nuget\\packages\\azure.identity\\1.13.2\\azure.identity.1.13.2.nupkg.sha512",
